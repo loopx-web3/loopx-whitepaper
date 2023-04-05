@@ -1,2 +1,1 @@
-# loopx-whitepaper
-LoopX Network Whitepaper
+# LoopX Network Whitepaper
